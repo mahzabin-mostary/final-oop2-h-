@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\c# final\lab final\formm\formm\bin\Debug\formm.exe.config
+C:\Users\HP\Desktop\c# final\lab final\formm\formm\bin\Debug\formm.exe
+C:\Users\HP\Desktop\c# final\lab final\formm\formm\bin\Debug\formm.pdb
+C:\Users\HP\Desktop\c# final\lab final\formm\formm\obj\Debug\formm.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\c# final\lab final\formm\formm\obj\Debug\formm.Form1.resources
+C:\Users\HP\Desktop\c# final\lab final\formm\formm\obj\Debug\formm.Properties.Resources.resources
+C:\Users\HP\Desktop\c# final\lab final\formm\formm\obj\Debug\formm.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\c# final\lab final\formm\formm\obj\Debug\formm.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# final\lab final\formm\formm\obj\Debug\formm.exe
+C:\Users\HP\Desktop\c# final\lab final\formm\formm\obj\Debug\formm.pdb
